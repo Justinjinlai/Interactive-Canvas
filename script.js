@@ -15,13 +15,13 @@ const images = {
   tree: new Image()
 };
 
-images.bg1.src = "https://i.imgur.com/dZ9m3Xr.jpg"; // Beach
-images.bg2.src = "https://i.imgur.com/Fz3ZEtT.jpg"; // Forest
-images.bg3.src = "https://i.imgur.com/hF6sF2Y.jpg"; // Space
-images.character.src = "https://i.imgur.com/0Xsl3xl.png"; // Character
-images.sun.src = "https://i.imgur.com/5Z6bD3K.png";
-images.cloud.src = "https://i.imgur.com/5TCOIgk.png";
-images.tree.src = "https://i.imgur.com/wfgcMzH.png";
+images.bg1.src = "Beach.jpg"; // Beach
+images.bg2.src = "Forest.jpg"; // Forest
+images.bg3.src = "Space.jpg"; // Space
+images.character.src = "Patrick.png"; // Character
+images.sun.src = "Sun.png";
+images.cloud.src = "Cloud.png";
+images.tree.src = "Tree.png";
 
 // Sound effects
 const sounds = [
